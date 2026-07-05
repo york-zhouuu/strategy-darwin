@@ -1,0 +1,4 @@
+# 核心引擎(src/valkit)与 scripts/ 下 4 个端到端脚本:零第三方依赖,Python>=3.9 标准库即可。
+# 仅 scripts/extra/run_valkit_crypto.py(需完整 tradeagent 工作区)用到:
+# pandas
+# numpy
